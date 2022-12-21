@@ -2,6 +2,7 @@
 - 👀 I’m interested in Data Science, Machine Learning
 - 🌱 I’m currently learning Python, SQL, Django, Docker, Data Science, Machine Learning
 - 💞️ I’m looking to collaborate on Machine Learning projects, Data Analytics...
+- 👀 Look at this: https://github.com/Vinizn90/calculadora i'ts an exercise creating a python package.
 - 📫 How to reach me: vinizn90@hotmail.com, https://www.linkedin.com/in/vinicius-noronha-8049a42a/
 
 <!---
